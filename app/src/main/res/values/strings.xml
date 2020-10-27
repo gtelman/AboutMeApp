@@ -2,4 +2,14 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Gabrielle</string>
     <string name="image_description">estrela amarela</string>
+    <string name="bio_text">O incentivo ao avanço tecnológico,
+        \nassim como a contínua expansão de nossa atividade
+        \n aponta para a melhoria da gestão inovadora
+        \n da qual fazemos parte.
+         \n O incentivo ao avanço tecnológico,
+        \nassim como a contínua expansão de nossa atividade
+        \n aponta para a melhoria da gestão inovadora
+        \n da qual fazemos parte.
+    </string>
+
 </resources>
